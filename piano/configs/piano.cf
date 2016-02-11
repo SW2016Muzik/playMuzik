@@ -1,0 +1,45 @@
+left ctrl, ./sounds/../soundfonts/piano/piano00.wav
+left shift, ./sounds/../soundfonts/piano/piano01.wav
+<, ./sounds/../soundfonts/piano/piano02.wav
+w, ./sounds/../soundfonts/piano/piano03.wav
+x, ./sounds/../soundfonts/piano/piano04.wav
+c, ./sounds/../soundfonts/piano/piano05.wav
+v, ./sounds/../soundfonts/piano/piano06.wav
+b, ./sounds/../soundfonts/piano/piano07.wav
+q, ./sounds/../soundfonts/piano/piano08.wav
+s, ./sounds/../soundfonts/piano/piano09.wav
+d, ./sounds/../soundfonts/piano/piano10.wav
+f, ./sounds/../soundfonts/piano/piano11.wav
+g, ./sounds/../soundfonts/piano/piano12.wav
+a, ./sounds/../soundfonts/piano/piano13.wav
+z, ./sounds/../soundfonts/piano/piano14.wav
+e, ./sounds/../soundfonts/piano/piano15.wav
+r, ./sounds/../soundfonts/piano/piano16.wav
+t, ./sounds/../soundfonts/piano/piano17.wav
+&, ./sounds/../soundfonts/piano/piano18.wav
+world 73, ./sounds/../soundfonts/piano/piano19.wav
+"""", ./sounds/../soundfonts/piano/piano20.wav
+', ./sounds/../soundfonts/piano/piano21.wav
+(, ./sounds/../soundfonts/piano/piano22.wav
+-, ./sounds/../soundfonts/piano/piano23.wav
+world 72, ./sounds/../soundfonts/piano/piano24.wav
+_, ./sounds/../soundfonts/piano/piano25.wav
+world 71, ./sounds/../soundfonts/piano/piano26.wav
+world 64, ./sounds/../soundfonts/piano/piano27.wav
+y, ./sounds/../soundfonts/piano/piano28.wav
+u, ./sounds/../soundfonts/piano/piano29.wav
+i, ./sounds/../soundfonts/piano/piano30.wav
+o, ./sounds/../soundfonts/piano/piano31.wav
+p, ./sounds/../soundfonts/piano/piano32.wav
+h, ./sounds/../soundfonts/piano/piano33.wav
+j, ./sounds/../soundfonts/piano/piano34.wav
+k, ./sounds/../soundfonts/piano/piano35.wav
+l, ./sounds/../soundfonts/piano/piano36.wav
+m, ./sounds/../soundfonts/piano/piano37.wav
+n, ./sounds/../soundfonts/piano/piano38.wav
+",", ./sounds/../soundfonts/piano/piano39.wav
+;, ./sounds/../soundfonts/piano/piano40.wav
+:, ./sounds/../soundfonts/piano/piano41.wav
+!, ./sounds/../soundfonts/piano/piano42.wav
+right shift, ./sounds/../soundfonts/piano/piano43.wav
+right ctrl, ./sounds/../soundfonts/piano/piano44.wav
