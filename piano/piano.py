@@ -4,7 +4,7 @@ from minimix.quick import *
 
 wav_file = toWav('./sounds/pianoc.ogg')
 
-sf_folder = shifts(wav_file, range(-16, 16))
+sf_folder = shifts(wav_file, range(-36, 13))
 
 cf_file = cf(sf_folder, 'keyboards/pianoc.kb')
 
